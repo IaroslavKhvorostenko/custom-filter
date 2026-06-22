@@ -1,8 +1,8 @@
 ! Checksum: xfKjqujDyFSDEEeQo2GqbA
 ! Diff-Path: ../patches/227/227-s-1781519951-14400.patch
-! Title: List-KR Classic filter list - Test2
-! Description: Test2.
-! Version: 2.0.4
+! Title: List-KR Classic filter list - Test3
+! Description: Test3
+! Version: 2.0.5
 ! TimeUpdated: 2026-06-15T10:36:21+00:00
 ! Expires: 1 day (update frequency)
 !
